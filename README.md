@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Areeb Zeeshan</h1>
 <h3 align="center">Full-stack developer specializing in the MERN stack, crafting efficient, scalable web applications. Passionate about turning ideas into reality through code. Exploring new technologies and constantly refining my skills to deliver impactful solutions. Let's build something amazing together!</h3>
 <div align="center">
-  <img align="center" alt="coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s](https://images.unsplash.com/photo-1665392996886-0949d131a5da?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
+  <img align="center" alt="coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s">
 </div>
 
 
